@@ -1,0 +1,20 @@
+<svg width="368" height="219" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <style type="text/css">@font-face {
+    font-family: "Mirai-Regular";
+    src: url(../../font/Mirai-Regular.otf) format("opentype");
+}</style>
+ </defs>
+ <title>Layer 1</title>
+ <title>Layer 2</title>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_2" height="130" width="116" y="87.429694" x="3" stroke-width="1.5" stroke="null" fill="#dedede"/>
+  <rect id="svg_3" height="171" width="113" y="46.429694" x="128.5" stroke-width="1.5" stroke="null" fill="#dedede"/>
+  <rect id="svg_4" height="216" width="116" y="1.429692" x="251" stroke-width="1.5" stroke="null" fill="#dedede"/>
+  <text transform="matrix(1,0,0,1,0,0) " fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="18.28125" y="203.37847" id="svg_1" font-size="150" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">4</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="144.28125" y="203.378474" id="svg_6" font-size="150" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">0</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="267.28125" y="203.378474" id="svg_7" font-size="150" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">4</text>
+ </g>
+</svg>

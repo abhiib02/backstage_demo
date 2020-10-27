@@ -1,0 +1,50 @@
+<svg width="400.00000000000006" height="420" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="402" height="422" id="canvas_background" fill="#ffffff00"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polyline stroke-linejoin="round" stroke-linecap="round" stroke-width="10" stroke="#007fff" transform="rotate(90 201,72.00000000000003) " points="201,4 263,38 263,106 201,140 139,106 139,38 201,4 " id="svg_3"/>
+  <polyline stroke-linejoin="round" stroke-linecap="round" stroke-width="10" stroke="#bf0000" transform="rotate(90 88.99999999999999,140.00000000000003) " points="89,72 151,106 151,174 89,208 27,174 27,106 89,72 " id="svg_4"/>
+  <polyline stroke-linejoin="round" stroke-linecap="round" stroke-width="10" stroke="#00ff00" transform="rotate(90 314.00000000000006,140.00000000000003) " points="314,72 376,106 376,174 314,208 252,174 252,106 314,72 " id="svg_9"/>
+  <polyline stroke-linejoin="round" stroke-linecap="round" stroke-width="10" stroke="#ff7f00" transform="rotate(90 201.99999999999997,346.00000000000006) " points="202,278 264,312 264,380 202,414 140,380 140,312 202,278 " id="svg_10"/>
+  <polyline stroke-linejoin="round" stroke-linecap="round" stroke-width="10" stroke="#ff00ff" transform="rotate(90 89.99999999999996,277.00000000000006) " points="90,209 152,243 152,311 90,345 28,311 28,243 90,209 " id="svg_11"/>
+  <polyline stroke-linejoin="round" stroke-linecap="round" stroke-width="10" stroke="#ffff00" transform="rotate(90 313,276.00000000000006) " points="313,208 375,242 375,310 313,344 251,310 251,242 313,208 " id="svg_12"/>
+  <text transform="matrix(10.152234077453613,0,0,1,-1647.4021339416504,0) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="10" id="svg_13" y="65.430555" x="179.999999" stroke-width="null" fill="none"/>
+  <text stroke="#007fff" transform="matrix(1.3170553325863918,0,0,1.7427366553869208,-85.59772570342743,-50.78665561924802) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="10" id="svg_14" y="72.209029" x="179.391444" stroke-width="null" fill="none">CONSULTANCY</text>
+  <text stroke="#00ff00" transform="matrix(1.3170553325863918,0,0,1.7427366553869208,-85.59772570342743,-50.78665561924802) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="10" id="svg_15" y="112.375582" x="286.248037" stroke-width="null" fill="none">AGRO</text>
+  <text stroke="#bf0000" transform="matrix(1.3170553325863918,0,0,1.7427366553869208,-85.59772570342743,-50.78665561924802) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="10" id="svg_16" y="113.699756" x="117.127221" stroke-width="null" fill="none">MEDIA</text>
+  <text stroke="#bf00bf" transform="matrix(1.139510442328277,0,0,1.6877607061672448,-68.58629724800267,-39.99440663638245) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="10" id="svg_17" y="192.25293" x="93.244963" stroke-width="null" fill="none">INFRASTRUCTURE</text>
+  <text style="cursor: move;" stroke="#ff7f00" transform="matrix(1.3170553325863918,0,0,1.7427366553869208,-85.59772570342743,-50.78665561924802) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="10" id="svg_18" y="231.109684" x="190.203945" stroke-width="null" fill="none">REALTORS</text>
+  <text stroke="#ffff00" transform="matrix(1.3170553325863918,0,0,1.7427366553869208,-85.59772570342743,-50.78665561924802) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="10" id="svg_19" y="191.38452" x="274.023359" stroke-width="null" fill="none">LOGISTICS</text>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <defs>
+   <style type="text/css">@font-face {
+    font-family: "Mirai-Regular";
+    src: url(../../font/Mirai-Regular.otf) format("opentype");
+}</style>
+  </defs>
+  <g id="svg_42">
+   <g transform="matrix(0.24459664215520238,0,0,0.24459664215520238,0,0) " id="svg_39">
+    <title transform="translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(633.6727294921875,0) translate(0,744.072021484375) "/>
+    <rect x="632.672729" y="689.609012" width="370" height="221" id="svg_37" fill="none"/>
+    <g id="svg_36" display="none">
+     <rect id="svg_40" width="400" height="420" x="633.672729" y="690.609012" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g transform="matrix(0.24459664215520238,0,0,0.24459664215520238,0,0) " id="svg_41">
+    <title transform="translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(0,-3.144882917404175) translate(633.6727294921875,0) translate(0,744.072021484375) ">Layer 1</title>
+    <rect fill="#bcbcbc" stroke="null" stroke-width="1.5" x="635.672728" y="779.609018" width="116" height="130" id="svg_35"/>
+    <rect fill="#bcbcbc" stroke="null" stroke-width="1.5" x="762.172727" y="737.609018" width="113" height="171" id="svg_34"/>
+    <rect fill="#bcbcbc" stroke="null" stroke-width="1.5" x="884.672728" y="692.60902" width="116" height="216" id="svg_33"/>
+    <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="641.172728" y="892.609011" id="svg_32" font-size="134" font-family="Mirai-Regular, sans-serif" text-anchor="start" xml:space="preserve">G</text>
+    <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="773.172728" y="892.609011" id="svg_31" font-size="134" font-family="Mirai-Regular, sans-serif" text-anchor="start" xml:space="preserve">Y</text>
+    <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="898.172728" y="892.609011" id="svg_30" font-size="134" font-family="Mirai-Regular, sans-serif" text-anchor="start" xml:space="preserve">B</text>
+   </g>
+  </g>
+  <text stroke="#000000" transform="matrix(1.797736285091821,0,0,1.7427366553869208,-176.50477943238403,-50.78665561924802) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="10" id="svg_43" y="167.99081" x="190.787996" stroke-width="null" fill="none">GROUP</text>
+ </g>
+</svg>

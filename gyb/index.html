@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135996570-5"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-135996570-5');
+	</script>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="theme-color" content="#333333" />
+	<meta property="og:image" content="./images/gyb.jpg">
+	<meta property="og:url" content="http://gybindia.com">
+	<meta property="og:type" content="Business Consultancy" />
+	<meta name="twitter:image" content="./images/gyb.jpg">
+	<meta name="twitter:card" content="http://gybindia.com/">
+	<link rel="icon" href="./images/gyb-favicon.jpg" type="image/x-icon" />
+	<link rel="shortcut icon" href="./images/gyb-favicon.jpg" type="image/x-icon" />
+	<!-- SEO-->
+	<?php include('meta.php');?>
+	<!-- SEO-->
+	<!-- STYLESHEETS-->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+	<link href="./css/mdb.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="./css/main.css">
+	<!-- STYLESHEETS-->
+	<!--SCRIPTS-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.19/jquery.scrollify.min.js"
+		integrity="sha256-RGlAwHKG24hsj1109SGQgvR+Orx7u8c6zyYH4Tk3ydU=" crossorigin="anonymous"></script>
+	<script>
+		$(function () {
+			$.scrollify({
+				section: ".page",
+				interstitialSection: "",
+				easing: "easeOutExpo",
+				scrollSpeed: 100,
+				offset: 0,
+				scrollbars: true,
+				standardScrollElements: ".footer",
+				setHeights: true,
+				overflowScroll: true,
+				updateHash: true,
+				touchScroll: true,
+				before: function () {},
+				after: function () {},
+				afterResize: function () {},
+				afterRender: function () {}
+			});
+		});
+	</script>
+	<script src="https://unpkg.com/scrollreveal"></script>
+	<!--SCRIPTS-->
+
+
+</head>
+
+<body>
+	<div class="overlay center ">
+		<div class="close-btn">
+			<ion-icon name="close-circle"></ion-icon>
+		</div>
+		<div id="main">
+			<div class="box-link  ">
+				<a href="" class="center">Home</a>
+			</div>
+			<div class="box-link  ">
+				<a href="" class="center">About Us</a>
+			</div>
+			<div class="box-link  ">
+				<a href="" class="center">Services</a>
+			</div>
+			<div class="box-link  ">
+				<a href="" class="center">GYB Group</a>
+			</div>
+			<div class="box-link  ">
+				<a href="" class="center">Sustainability</a>
+			</div>
+
+			<div class="box-link  ">
+				<a href="" class="center">Globalisation Techniques</a>
+			</div>
+			<div class="box-link  ">
+				<a href="" class="center">History/DNA</a>
+			</div>
+			<div class="box-link  ">
+				<a href="" class="center">Investment In India</a>
+			</div>
+			<div class="box-link  ">
+				<a href="" class="center">Contact</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="container-fluid fixed-top space-between ">
+
+		<div id="left">
+			<a class="" href="<?php echo base_url(); ?>"><img src="./images/gyb.jpg" alt="" id="logo"
+					class="logo"></a>
+		</div>
+		<div id="right" style="">
+			<a id="open" style='position:fixed;bottom:2%;right:2%;display:flex;justify-content:center;align-items:center;' role="button" data-toggle="modal" data-target="#login-modal" class="white text-dark logo">
+				<i class="fas fa-envelope"></i>
+			</a>
+			<ion-icon class="white text-dark logo menu-btn btn-open" name="menu"></ion-icon>
+
+
+		</div>
+
+
+
+
+
+
+	</div>
+
+
+
+
+	<style>
+
+.circles:nth-child(even){
+    position: absolute;
+    
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    transform:translateX(50%);
+}
+.circles:nth-child(odd){
+    position: absolute;
+    
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    transform:translateX(0%);
+}
+.side-left,.s2-s2-side-right{
+     background:#9e9e9e;
+    }
+.page{
+    background-size:auto 100%;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+}
+.page:nth-child(even){
+    background-size:auto 100%;
+    background-position:100%;
+    background-attachment:scroll;
+    background-repeat:no-repeat;
+}
+.page:nth-child(odd){
+    background-size:auto 100%;
+    background-position:0%;
+    background-attachment:scroll;
+    background-repeat:no-repeat;
+}
+@media only screen and (max-width: 1100px) and (min-width: 10px) {
+    .side-left,.s2-s2-side-right{
+     background:#3336;
+    }
+    .invert{
+        filter:invert(100);
+    }
+    .page{
+    background-size:cover;
+    }
+    .bold,.section-title{
+        color:#fff;
+    }
+    .circles:nth-child(even){
+    position: absolute;
+    
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    transform:translateX(00%);
+}
+.circles:nth-child(odd){
+    position: absolute;
+    
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    transform:translateX(0%);
+}
+}
+.circles .li{
+    position: absolute;
+    display: block;
+    list-style: none;
+    width: 20px;
+    height: 20px;
+    background: rgba(255, 255, 255, 0.4);
+    animation: animate 25s linear infinite;
+    bottom: -150px;
+    
+}
+
+.circles .li:nth-child(1){
+    left: 25%;
+    width: 40px;
+    height: 80px;
+    animation-delay: 0s;
+}
+
+
+.circles .li:nth-child(2){
+    left: 10%;
+    width: 10px;
+    height: 20px;
+    animation-delay: 2s;
+    animation-duration: 12s;
+}
+
+.circles .li:nth-child(3){
+    left: 70%;
+    width: 10px;
+    height: 20px;
+    animation-delay: 4s;
+}
+
+.circles .li:nth-child(4){
+    left: 40%;
+    width: 20px;
+    height: 60px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+}
+
+.circles .li:nth-child(5){
+    left: 65%;
+    width: 10px;
+    height: 20px;
+    animation-delay: 0s;
+}
+
+.circles .li:nth-child(6){
+    left: 75%;
+    width: 50px;
+    height: 110px;
+    animation-delay: 3s;
+}
+
+.circles .li:nth-child(7){
+    left: 35%;
+    width: 60px;
+    height: 150px;
+    animation-delay: 7s;
+}
+
+.circles .li:nth-child(8){
+    left: 50%;
+    width: 05px;
+    height: 25px;
+    animation-delay: 15s;
+    animation-duration: 45s;
+}
+
+.circles .li:nth-child(9){
+    left: 20%;
+    width: 05px;
+    height: 15px;
+    animation-delay: 2s;
+    animation-duration: 35s;
+}
+
+.circles .li:nth-child(10){
+    left: 85%;
+    width: 60px;
+    height: 150px;
+    animation-delay: 0s;
+    animation-duration: 11s;
+}
+
+
+
+@keyframes animate {
+
+    0%{
+        transform: translateY(0) rotate(0deg);
+        opacity: 1;
+        border-radius: 0;
+    }
+
+    100%{
+        transform: translateY(-1000px) rotate(720deg);
+        opacity: 1;
+    }
+
+}
+</style>
+
+<div id="About" class="page"
+	style="background-image:url(./images/gyb-profile.jpg);">
+	<!--<div class="sticky-top ">
+		<h1 class="center card transparent h1">About Us</h1>
+	</div>-->
+	<div id="logo" class="wow zoomIn center-logo hide-on-mobile">
+		<img class="round-logo " src="http://www.backstagemumbai.in/img/gyb.jpg" height="200px" width="200px" alt="">
+	</div>
+	<div  class=" grid-container">
+		<div  class="side-left  center-ver">
+		    <ul class="circles">
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+            </ul>
+		<p  class="wow slideInLeft section-title">About Us</p>
+			<div class="wow fadeInUp full">
+				
+				<p class="bold text-center">We "THINK" <br />&<br /> You "THRIVE"
+
+				</p>
+				<a href="/about" class="btn btn-dark">Learn More</a>
+
+			</div>
+			
+		</div>
+		<div class="side-right"></div>
+		<div class="bars-right "></div>
+	</div>
+</div>
+<div id="Services" class="page"
+	style="background-image:url(./images/gyb-work2.jpg);">
+	<!--<div class="sticky-top ">
+		<h1 class="center card main-color h1">Services</h1>
+	</div>-->
+	<div class="s2-grid-container">
+		<div class="s2-bars-left "></div>
+		<div class="s2-s2-side-left"></div>
+		<div class="s2-s2-side-right  center-ver-2">
+		    <ul class="circles">
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+            </ul>
+		<p class="wow slideInRight section-title ">Services</p>
+			<div class="wow fadeInUp full">
+				
+				<p class=" center bold text-center">We at GYB group focus on companies most critical issues
+				</p>
+				<div class="full">
+				<div class="row  center-row ">
+					<a href="/services#company" class="col-md-3 btn btn-dark ">Company <br />Strategy</a>
+					<a href="/services#project" class="col-md-3 btn btn-dark">Project Management</a>
+					<a href="/services#wealth" class="col-md-3 btn btn-dark">Wealth <br /> Planning</a>
+				</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+<div id="group" class="page"
+	style="background-image:url(./images/gybgroupback2.jpg);">
+	<!--<div class="sticky-top ">
+		<h1 class="center card main-color h1">GYB Group</h1>
+	</div>-->
+
+	<div class=" grid-container" id="About">
+		<div class="side-left  center-ver">
+		    <ul class="circles">
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+            </ul>
+		<p class="wow slideInLeft section-title">GYB Group</p>
+			<div class="wow fadeInUp full">
+				
+				<p class=" bold text-center"> GYB Group has spread its branches to various domains of industry.
+				</p>
+				<a href="/group" class="btn btn-dark">Learn More</a>
+			</div>
+		</div>
+		<div class="side-right center">
+		<!--<img src="./images/gybgroup3.svg" alt="">-->
+		</div>
+		<div class="bars-right "></div>
+	</div>
+</div>
+<div id="Sustainability" class="page"
+	style="background-image:url(./images/sustain2.jpg);">
+	<!--<div class="sticky-top ">
+		<h1 class="center card main-color h1">Sustainability</h1>
+	</div>-->
+	<div class="s2-grid-container">
+		<div class="s2-bars-left "></div>
+		<div class="s2-s2-side-left"></div>
+		<div class="s2-s2-side-right  center-ver-2">
+		    <ul class="circles">
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+            </ul>
+		<p class="wow slideInRight section-title">Sustainability</p>
+			<div class="wow fadeInUp full">
+				
+				<p class=" bold text-center">
+					Because, We pledge to <br />PR<img width="40px"
+						src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/earth-globe-americas_1f30e.png"
+						alt="">TECT
+				</p>
+				<div class="full">
+				<div class="row center-row">
+					<a href="/sustainability#economic" class="col-md-3 btn btn-dark">Economic </a>
+					<a href="/sustainability#environmental" class="col-md-3 btn btn-dark">Environment</a>
+					<a href="/sustainability#social" class="col-md-3 btn btn-dark">Social</a>
+				</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="Globalisation" class="page"
+	style="background-image:url(./images/globalisation.jpg);">
+	<!--<div class="sticky-top ">
+		<h1 class="center card main-color h1">Globalisation Techniques</h1>
+	</div>-->
+	<div class=" grid-container" id="About">
+		<div class="side-left  center-ver">
+		    <ul class="circles">
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+            </ul>
+		<p class="wow slideInLeft section-title">Globalisation Techniques</p>
+			<div class="wow fadeInUp full">
+				
+				<p class=" bold text-center">Expanding business in the emerging markets
+
+				</p>
+				<a href="/globalisation" class="btn btn-dark">Learn More</a>
+			</div>
+		</div>
+		<div class="side-right"></div>
+		<div class="bars-right "></div>
+	</div>
+</div>
+<div id="DNA" class="page"
+	style="background-image:url(./images/dna.jpg);">
+	<!--<div class="sticky-top ">
+		<h1 class="center card main-color h1">DNA</h1>
+	</div>-->
+	<div class="s2-grid-container">
+		<div class="s2-bars-left "></div>
+		<div class="s2-s2-side-left"></div>
+		<div class="s2-s2-side-right  center-ver-2">
+		    <ul class="circles">
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+            </ul>
+		<p class="wow slideInRight section-title">History/DNA</p>
+			<div class="wow fadeInUp full">
+				
+				<p class=" bold text-center">We are all in this together.
+
+				</p>
+				<a href="/dna" class="btn btn-dark">Learn More</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="invest" class="page"
+	style="background-image:url(./images/investindia3.jpg);">
+	<!--<div class="sticky-top ">
+		<h1 class="center card main-color h1">Globalisation Techniques</h1>
+	</div>-->
+	<div class=" grid-container">
+		<div class="side-left  center-ver">
+		    <ul class="circles">
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+            </ul>
+		<p class="wow slideInLeft section-title">Investment in India</p>
+			<div class="wow fadeInUp full">
+				
+				<p class=" bold text-center">Investment today is a source of income tomorrow.
+
+				</p>
+				<a href="/invest" class="btn btn-dark">Learn More</a>
+			</div>
+		</div>
+		<div class="side-right"></div>
+		<div class="bars-right "></div>
+	</div>
+</div>
+<div id="Connect" class="page"
+	style="background-image:url(./images/connect.jpg);">
+	<!--<div class="sticky-top ">
+		<h1 class="center card main-color h1">DNA</h1>
+	</div>-->
+	<div class="s2-grid-container">
+		<div class="s2-bars-left "></div>
+		<div class="s2-s2-side-left"></div>
+		<div class="s2-s2-side-right  center-ver-2">
+		    <ul class="circles">
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+                    <li class="li"></li>
+            </ul>
+		<p class="wow slideInRight section-title">Connect</p>
+			<div class="wow fadeInUp full">
+				
+				<p class=" bold text-center">Get in touch with us.
+				
+				</p>
+				
+				
+				<a href="/connect" class="btn btn-dark">Learn More</a>
+				
+			</div>
+			<div class="wow fadeInUp full center">
+			<img class="invert" src="./images/qr.png" width="200px" alt=""></div>
+			
+		</div>
+	</div>
+</div>
+
+<style>
+    .sm-bold{
+        margin:10px;
+        color:#000;
+        font-weight:bold;
+    }
+</style>
+	<div class="container footer">
+
+		<div class="row pt-5">
+		    <div class="col-md-8" style="display:flex;flex-direction:row;">
+		        <a class="sm-bold" href="http://gybindia.in/connect">Contact Us</a>
+		        <a class="sm-bold"  href="http://gybindia.in/about">About Us</a>
+		        <a class="sm-bold"  href="http://gybindia.in/sustainability">Sustainability</a>
+		        <a class="sm-bold"  href="http://gybindia.in/sitemap.xml">Sitemap</a>
+		    </div>
+		    <div class="col-md-4">
+		        <a class="sm-bold" href="https://www.instagram.com/gybconsultancy/"><i class="fab fa-instagram"></i></a>
+		        <a class="sm-bold"  href="https://www.facebook.com/"><i class="fab fa-facebook-square"></i></a>
+		        <a class="sm-bold"  href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+		        <a class="sm-bold"  href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+		        <a class="sm-bold"  href="http://wa.me/918452000552"><i class="fab fa-whatsapp"></i></a>
+		    </div>
+		</div>
+		<hr>
+	</div>
+
+<div class="darkness"></div>
+<div class="model"><button class="close ">X</button>      
+  <h3>Request An Appointment</h3>
+<form class="center" method="POST" action="https://formspree.io/gybleads@gmail.com">
+    <input class="form-control" type="Text" id="name" name="name" placeholder="Your Name" required>
+   
+       <input class="form-control" pattern="[^@]+@[^@]+\.[a-zA-Z]{2,}" type="email" id="email" name="email" placeholder="Your Email"required>
+        <input class="form-control" pattern="^([+][9][1]|[9][1]|[0]){0,1}([7-9]{1})([0-9]{9})$"type="numeric" id="phone" name="phone" placeholder="Your phone"required>
+       <input class="form-control" type="text" id="Business" name="Business" placeholder="Type of Business"required>
+       <div style="">
+           <div class="custom-control custom-radio">
+               <input type="radio" class="custom-control-input" id="c" name="service"
+                   value="Company Strategy" required>
+               <label class="custom-control-label" for="c">Company Strategy</label>
+           </div>
+           <div class="custom-control custom-radio">
+               <input type="radio" class="custom-control-input" id="p" name="service"
+                   value="Project Management"required>
+               <label class="custom-control-label" for="p">Project Management</label>
+           </div>
+           <div class="custom-control custom-radio">
+               <input type="radio" class="custom-control-input" id="w" name="service"
+                   value="Wealth Planning"required>
+               <label class="custom-control-label" for="w">Wealth Planning</label>
+           </div>
+           <div class="custom-control custom-radio">
+               <input type="radio" class="custom-control-input" id="o" name="service" value="Other Services"required>
+               <label class="custom-control-label" for="o">Other Services</label>
+           </div>
+       </div>
+       <textarea class="form-control" rows="1" id="message" name="message" placeholder="Any other query"></textarea>
+   
+       <input type="submit" class="btn btn-dark" value="Book Appointment" />
+   </form>
+     
+  
+</div>
+<!-- SCRIPTS -->
+<div id="ad" class="container-fluid main-color footer sm-bold ">
+	<div class=" container space-between">
+		<div><?php echo date("Y"); ?> © All Copyright Reserved</div>
+		<div class="text-black" >Design and Developed by <a style="color:#000;" href="http://dexo.media">Dexo Media</a></div>
+	</div>
+
+</div>
+<!-- JQuery -->
+<script>
+$(document).ready(function () {
+    $('#open').on('click',function(){
+    $('.darkness, .model').addClass('active');
+})
+
+$('.close').on('click',function(){
+    $('.darkness, .model').removeClass('active');
+})
+
+});
+</script>
+<script>
+	$(document).ready(function () {
+		$('.btn-open').click(function () {
+			$('.overlay').css({
+				"transform": "translateX(0)"
+			});
+		});
+		$(".close-btn,.section-upper,.section-lower,.box-link").click(function () {
+			$('.overlay').css({
+				"transform": "translateX(100%)"
+			});
+		});
+	});
+
+</script>
+<script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+<script src="./js/all-combined.js"></script>
+<script src="./js/main2.js"></script>
+
+
+
+<!------------------scripts section-------------------------->
+
+</body>
+
+</html>

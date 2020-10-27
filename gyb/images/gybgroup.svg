@@ -1,0 +1,166 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="761px"
+	height="481px" viewBox="-0.5 -0.5 761 481"
+	content="&lt;mxfile modified=&quot;2019-07-02T08:22:16.216Z&quot; host=&quot;www.draw.io&quot; agent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36&quot; etag=&quot;EjPJ2eREb8O1-wWxfnce&quot; version=&quot;10.8.5&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;FbYT3jQViEQt374PiSgl&quot; name=&quot;Page-1&quot;&gt;7Zltb5swEMc/TV52AgyEvEyTrKvUaluzqe1LFxzw5nDMmAL79DNgnpI+ZFsjItRESuz/3Rn7fmcSYIIW2+yC4yi4Bo+wiaF52QQtJ4bhmJr8LIS8EkzLqASfU6+S9FZY099EiSrOT6hH4p6jAGCCRn3RhTAkruhpmHNI+24bYP2jRtgne8LaxWxfvaWeCNSyLK3VPxHqB/WRdU1Ztrh2VkIcYA/SjoRWE7TgAKJqbbMFYUXu6rxUcR+fsTYT4yQUhwTE6VcrnN3OyZ0ZX16nyFkb1pmuholFXq+YeDIBqgtcBOBDiNmqVc85JKFHimE12Wt9rgAiKepS/EGEyBVNnAiQUiC2TFlJRsWdCi/a90X7g6V6y6xjWuZ1JxQ8v2sdi+5919aGlb06rlpfsahn81bnABLukpeSpeoPc5+IF/xQQ1fuCgJbIucj4zhhWNDH/jywqk+/8WsRyoai+DdEjVMhqo+FpzUoTzQkT32cO9QclKh5KkRHs0PtQXlag55xm105KqLOoETtd6JvTnQ6KNHpO9E3JzoblGg17iNmiTrSxLCZnO75BuSCu6jtXwnUhrO4hDWXDsiKstYoW776Lkd5qIWL+1bjjXjz+fuXWpbzf9gNl1o1j51Reavs1iNj8qK2qLs0oIKsI1xCSuVldb+qNpSxBTDgZRzaWMVb6rHg8JN0LHb5Ugvv6NWrmcMj4YJkL1fNPmUVgAy1s9L26lifqV/EoHtlPNOOVAnovytBN56qhCfBLyCMEyZw6Ob/jvoVwDiOqlsZG5oVp5/TIl7f0VE3dHRb2ysAR9vn7xwLv7mH/0lw18SjeOxspsaJwbEOg3MZbjiWGUtckXAydkoNFUWp2VJDUbIPo3QFPo0FdeOxA7K1EwM0PQzQDcHFUKtYYDH6XdRkO6//iQwMyTkM0tznMHY25qmxmR3G5hvHHg39seNBjtXDY2pHwyO77SOu0tZ5TohWfwA=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <style>
+    .line{
+    stroke-width:5px;
+    }
+    </style>
+	<defs />
+    
+	<g>
+		<path d="M 287 95 L 40 95 L 40 153.63" fill="none" stroke="#ffffff" stroke-miterlimit="10"
+			 class="line"/>
+		<path d="M 40 158.88 L 36.5 151.88 L 40 153.63 L 43.5 151.88 Z" fill="#ffffff" stroke="#ffffff"
+			stroke-miterlimit="10"  class="line"/>
+		<path d="M 316 162 L 160 162 L 160 233.63" fill="none" stroke="#ffffff" stroke-miterlimit="10"
+			 class="line"/>
+		<path d="M 160 238.88 L 156.5 231.88 L 160 233.63 L 163.5 231.88 Z" fill="#ffffff" stroke="#ffffff"
+			stroke-miterlimit="10"  class="line"/>
+		<path d="M 482 95 L 720 95 L 720 153.63" fill="none" stroke="#ffffff" stroke-miterlimit="10"
+			 class="line"/>
+		<path d="M 720 158.88 L 716.5 151.88 L 720 153.63 L 723.5 151.88 Z" fill="#ffffff" stroke="#ffffff"
+			stroke-miterlimit="10"  class="line"/>
+		<path d="M 453 162 L 600 162 L 600 233.63" fill="none" stroke="#ffffff" stroke-miterlimit="10"
+			 class="line"/>
+		<path d="M 600 238.88 L 596.5 231.88 L 600 233.63 L 603.5 231.88 Z" fill="#ffffff" stroke="#ffffff"
+			stroke-miterlimit="10"  />
+		<path d="M 385 190 L 385 255 L 480 255 L 480 313.63" fill="none" stroke="#ffffff" stroke-miterlimit="10"
+			 class="line" />
+		<path d="M 480 318.88 L 476.5 311.88 L 480 313.63 L 483.5 311.88 Z" fill="#ffffff" stroke="#ffffff"
+			stroke-miterlimit="10"  class="line"/>
+		<path d="M 385 190 L 385 255 L 280 255 L 280 313.63" fill="none" stroke="#ffffff" stroke-miterlimit="10"
+			 class="line" />
+		<path d="M 280 318.88 L 276.5 311.88 L 280 313.63 L 283.5 311.88 Z" fill="#ffffff" stroke="#ffffff"
+			stroke-miterlimit="10"  class="line"/>
+		<path d="M 385 190 L 385 393.63" fill="none" stroke="#ffffff" stroke-miterlimit="10"  class="line"/>
+		<path d="M 385 398.88 L 381.5 391.88 L 385 393.63 L 388.5 391.88 Z" fill="#ffffff" stroke="#ffffff"
+			stroke-miterlimit="10"  class="line"/>
+		<ellipse cx="385" cy="95" rx="97.5" ry="95" fill="#f5f5f5" stroke="#666666"  />
+		<g transform="translate(319.5,53.5)">
+			<switch>
+				<foreignObject style="overflow:visible;" pointer-events="none" width="129" height="82"
+					requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+					<div xmlns="http://www.w3.org/1999/xhtml"
+						style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; vertical-align: top; width: 129px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+						<div xmlns="http://www.w3.org/1999/xhtml" pointer-events="none"
+							style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+							<font style="font-size: 35px"><b>GYB<br />GROUP</b></font><br />
+                            
+						</div>
+					</div>
+				</foreignObject><text x="65" y="47" fill="#333333" text-anchor="middle" font-size="12px"
+					font-family="'Helvetica'">[Not supported by viewer]</text>
+			</switch>
+		</g>
+        
+		<rect    x="0" y="160" width="80" height="80" fill="#f5f5f5" stroke="#666666" onmousemove="showTooltip(evt, 'This is blue');" onmouseout="hideTooltip();" />
+		<g transform="translate(6.5,186.5)">
+			<switch>
+				<foreignObject style="overflow:visible;" pointer-events="none" width="66" height="26"
+					requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+					<div xmlns="http://www.w3.org/1999/xhtml"
+						style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; vertical-align: top; width: 68px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+						<div xmlns="http://www.w3.org/1999/xhtml" pointer-events="none"
+							style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+							<font style="font-size: 12px">GYB<br />Consultancy</font><br />
+						</div>
+					</div>
+				</foreignObject><text x="33" y="19" fill="#333333" text-anchor="middle" font-size="12px"
+					font-family="'Helvetica'">[Not supported by viewer]</text>
+			</switch>
+		</g>
+		<rect    x="680" y="160" width="80" height="80" fill="#f5f5f5" stroke="#666666" onmousemove="showTooltip(evt, 'This is blue');" onmouseout="hideTooltip();" />
+		<g transform="translate(703.5,186.5)">
+			<switch>
+				<foreignObject style="overflow:visible;" pointer-events="none" width="32" height="26"
+					requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+					<div xmlns="http://www.w3.org/1999/xhtml"
+						style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; vertical-align: top; width: 34px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+						<div xmlns="http://www.w3.org/1999/xhtml" pointer-events="none"
+							style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+							GYB<br />Media<br /></div>
+					</div>
+				</foreignObject><text x="16" y="19" fill="#333333" text-anchor="middle" font-size="12px"
+					font-family="'Helvetica'">[Not supported by viewer]</text>
+			</switch>
+		</g>
+		<rect    x="120" y="240" width="80" height="80" fill="#f5f5f5" stroke="#666666" onmousemove="showTooltip(evt, 'This is blue');" onmouseout="hideTooltip();" />
+		<g transform="translate(124.5,266.5)">
+			<switch>
+				<foreignObject style="overflow:visible;" pointer-events="none" width="70" height="26"
+					requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+					<div xmlns="http://www.w3.org/1999/xhtml"
+						style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; vertical-align: top; width: 72px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+						<div xmlns="http://www.w3.org/1999/xhtml" pointer-events="none"
+							style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+							GYB<br />Infrastructure<br /></div>
+					</div>
+				</foreignObject><text x="35" y="19" fill="#333333" text-anchor="middle" font-size="12px"
+					font-family="Helvetica">GYB&lt;br&gt;Infrastructure&lt;br&gt;</text>
+			</switch>
+		</g>
+		<rect     x="560" y="240" width="80" height="80" fill="#f5f5f5" stroke="#666666" onmousemove="showTooltip(evt, 'This is blue');" onmouseout="hideTooltip();" />
+		<g transform="translate(576.5,266.5)">
+			<switch>
+				<foreignObject style="overflow:visible;" pointer-events="none" width="46" height="26"
+					requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+					<div xmlns="http://www.w3.org/1999/xhtml"
+						style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; vertical-align: top; width: 48px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+						<div xmlns="http://www.w3.org/1999/xhtml" pointer-events="none"
+							style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+							GYB<br />Logistics<br /></div>
+					</div>
+				</foreignObject><text x="23" y="19" fill="#333333" text-anchor="middle" font-size="12px"
+					font-family="'Helvetica'">[Not supported by viewer]</text>
+			</switch>
+		</g>
+		<rect     x="240" y="320" width="80" height="80" fill="#f5f5f5" stroke="#666666" onmousemove="showTooltip(evt, 'This is blue');" onmouseout="hideTooltip();" />
+		<g transform="translate(248.5,346.5)">
+			<switch>
+				<foreignObject style="overflow:visible;" pointer-events="none" width="62" height="26"
+					requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+					<div xmlns="http://www.w3.org/1999/xhtml"
+						style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; vertical-align: top; width: 64px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+						<div xmlns="http://www.w3.org/1999/xhtml" pointer-events="none"
+							style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+							GYB<br />Real Estate<br /></div>
+					</div>
+				</foreignObject><text x="31" y="19" fill="#333333" text-anchor="middle" font-size="12px"
+					font-family="Helvetica">GYB&lt;br&gt;Real Estate&lt;br&gt;</text>
+			</switch>
+		</g>
+		<rect     x="440" y="320" width="80" height="80" fill="#f5f5f5" stroke="#666666" onmousemove="showTooltip(evt, 'This is blue');" onmouseout="hideTooltip();" />
+		<g transform="translate(466.5,346.5)">
+			<switch>
+				<foreignObject style="overflow:visible;" pointer-events="none" width="26" height="26"
+					requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+					<div xmlns="http://www.w3.org/1999/xhtml"
+						style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; vertical-align: top; width: 26px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+						<div xmlns="http://www.w3.org/1999/xhtml" pointer-events="none"
+							style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+							GYB<br />Agro<br /></div>
+					</div>
+				</foreignObject><text x="13" y="19" fill="#333333" text-anchor="middle" font-size="12px"
+					font-family="'Helvetica'">[Not supported by viewer]</text>
+			</switch>
+		</g>
+		<rect    title="Trading"  x="345" y="400" width="80" height="80" fill="#f5f5f5" stroke="#666666" onmousemove="showTooltip(evt, 'This is blue');" onmouseout="hideTooltip();" />
+		<g transform="translate(364.5,426.5)">
+			<switch>
+				<foreignObject style="overflow:visible;" pointer-events="none" width="40" height="26"
+					requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+					<div xmlns="http://www.w3.org/1999/xhtml"
+						style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; vertical-align: top; width: 42px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+						<div xmlns="http://www.w3.org/1999/xhtml" pointer-events="none"
+							style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+							GYB<br />Trading<br /></div>
+					</div>
+				</foreignObject><text x="20" y="19" fill="#333333" text-anchor="middle" font-size="12px"
+					font-family="'Helvetica'">[Not supported by viewer]</text>
+			</switch>
+		</g>
+	</g>
+   
+</svg>

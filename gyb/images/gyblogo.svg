@@ -1,0 +1,27 @@
+<svg width="368" height="219" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <style type="text/css">
+    @font-face {
+    font-family: "Mirai-Regular";
+    src: url(../../font/Mirai-Regular.otf) format("opentype");
+}
+  </style>
+</defs>
+ <g>
+  <title></title>
+  <rect fill="none" id="canvas_background" height="221" width="370" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_2" height="130" width="116" y="89.000006" x="1.999999" stroke-width="1.5" stroke="null" fill="#dedede"/>
+  <rect id="svg_3" height="171" width="113" y="47.000006" x="128.499998" stroke-width="1.5" stroke="null" fill="#dedede"/>
+  <rect id="svg_4" height="216" width="116" y="2.000008" x="250.999999" stroke-width="1.5" stroke="null" fill="#dedede"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Mirai-Regular, sans-serif" font-size="134" id="svg_7" y="201.999999" x="7.499999" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">G</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Mirai-Regular, sans-serif" font-size="134" id="svg_8" y="201.999999" x="139.499999" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Y</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Mirai-Regular, sans-serif" font-size="134" id="svg_9" y="201.999999" x="264.499999" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">B</text>
+ </g>
+</svg>

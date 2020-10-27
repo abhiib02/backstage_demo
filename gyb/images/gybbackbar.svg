@@ -1,0 +1,27 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="14.048193" width="14.048193" y="-1" x="-1"/>
+  <g display="none" id="canvasGrid"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#dedede" id="svg_1" height="24.04762" width="5" y="-0.743221" x="2.506569" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_2" height="25" width="5" y="25.68535" x="2.506569" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_3" height="24.04762" width="5" y="13.066302" x="11.035602" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_4" height="24.04762" width="5" y="-13.362268" x="11.199536" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_5" height="24.04762" width="5" y="39.73297" x="11.035602" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_6" height="24.04762" width="5" y="-0.505126" x="19.306566" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_7" height="25" width="5" y="25.923445" x="19.306565" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_15" height="24.04762" width="5" y="13.066302" x="27.070024" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_16" height="24.04762" width="5" y="-13.362268" x="27.233958" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_17" height="24.04762" width="5" y="39.73297" x="27.070024" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_18" height="24.04762" width="5" y="-0.505126" x="34.996161" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_19" height="25" width="5" y="25.923445" x="34.99616" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_20" height="24.04762" width="5" y="13.066302" x="42.75962" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_21" height="24.04762" width="5" y="-13.362268" x="42.923554" stroke-width="0" fill="#000"/>
+  <rect stroke="#dedede" id="svg_22" height="24.04762" width="5" y="39.73297" x="42.75962" stroke-width="0" fill="#000"/>
+ </g>
+</svg>
