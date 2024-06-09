@@ -138,7 +138,7 @@ h6 {
 .custom-background {
     --_primaryColor: #000000aa;
     /*background: linear-gradient(45deg, var(--_primaryColor) var(--stop, 21%), rgba(255, 255, 255, 0) 100%), var(--url, 'url("images/solar-bg.jpg")');*/
-    background: linear-gradient(45deg, var(--_primaryColor) var(--stop, 100%), rgba(255, 255, 255, 0) 100%), var(--url, 'url("images/solar-bg.jpg")');
+    background: linear-gradient(45deg, var(--_primaryColor) var(--stop, 100%), rgba(255, 255, 255, 0) 100%), var(--url, 'url("https: //offlinesites.netlify.app/selectse/images/solar-bg.jpg")');
     background-blend-mode: var(--blend, normal);
     background-size: var(--size, cover);
     background-repeat: no-repeat;
