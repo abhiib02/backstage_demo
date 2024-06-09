@@ -10,7 +10,7 @@
     --primary: #ff8605;
     --secondary: #e7f9ee;
     --accent: #FF9523;
-    --bgblack:#000000aa;
+    --bgblack: #000000aa;
 
     --backgroundColor: var(--background);
     --textColor: var(--text);
@@ -19,29 +19,36 @@
     --roundeness: 1rem;
     --space: 2rem;
 }
+
 ::selection {
-  color: var(--background);
-  background:var(--bgblack);
+    color: var(--background);
+    background: var(--bgblack);
 }
+
 ::-webkit-scrollbar {
-    width:8px;
-   
+    width: 8px;
+
 }
-::backdrop{
-background: #000d;
-backdrop-filter: blur(2px);
+
+::backdrop {
+    background: #000d;
+    backdrop-filter: blur(2px);
 }
+
 ::-webkit-scrollbar-track {
     box-shadow: inset 0 0 5px var(--backgroundColor);
     border-radius: 10px;
 }
+
 ::-webkit-scrollbar-thumb {
     background: var(--primaryColor);
     border-radius: 10px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
     background: var(--primaryColorHover);
 }
+
 html {
     font-size: 16px;
     scroll-behavior: smooth;
@@ -59,8 +66,9 @@ dialog {
     transform: translate(-50%, -50%);
     padding: 1rem;
     border: 1px solid var(--accent);
+
     @media (width < 992px) {
-        width:100%;
+        width: 100%;
     }
 }
 
@@ -84,6 +92,7 @@ h6 {
 
 .big-heading {
     font-size: 6rem;
+
     @media (width < 992px) {
         & {
             font-size: 4rem;
@@ -94,12 +103,15 @@ h6 {
 .rounded {
     border-radius: var(--roundeness);
 }
+
 .no-rounded {
     border-radius: 0;
 }
+
 .theme-text-color {
     color: var(--textColor) !important;
 }
+
 .btn-outline-theme {
     color: var(--backgroundColor);
     /*border-color: var(--backgroundColor);*/
@@ -119,18 +131,19 @@ h6 {
 
 /*---- nav --------*/
 
-.fw-bold{
-        padding: 78px 0 0 0;
+.fw-bold {
+    padding: 78px 0 0 0;
 }
 
 .custom-background {
-    --_primaryColor:#000000aa;
-    /*background: linear-gradient(45deg, var(--_primaryColor) var(--stop, 21%), rgba(255, 255, 255, 0) 100%), var(--url, 'url("/images/solar-bg.jpg")');*/
-    background: linear-gradient(45deg, var(--_primaryColor) var(--stop, 100%), rgba(255, 255, 255, 0) 100%), var(--url, 'url("/images/solar-bg.jpg")');
-    background-blend-mode: var(--blend,normal);
-    background-size: var(--size,cover);
+    --_primaryColor: #000000aa;
+    /*background: linear-gradient(45deg, var(--_primaryColor) var(--stop, 21%), rgba(255, 255, 255, 0) 100%), var(--url, 'url("images/solar-bg.jpg")');*/
+    background: linear-gradient(45deg, var(--_primaryColor) var(--stop, 100%), rgba(255, 255, 255, 0) 100%), var(--url, 'url("images/solar-bg.jpg")');
+    background-blend-mode: var(--blend, normal);
+    background-size: var(--size, cover);
     background-repeat: no-repeat;
-    background-position: var(--position,center);;
+    background-position: var(--position, center);
+    ;
 
 }
 
@@ -556,25 +569,27 @@ button {
         
     }
 }*/
- 
+
 
 
 
 /*----------bootstap customization ------------*/
 
-.list-group-item{
+.list-group-item {
     text-align: left;
     padding-inline: 18%;
 }
-.list-group-item::before{
+
+.list-group-item::before {
     content: "";
-    display:inline-block;
+    display: inline-block;
     border-radius: 50%;
-    width:10px;
+    width: 10px;
     height: 10px;
     margin-right: 10px;
-    background-image: linear-gradient(45deg, var(--primary),var(--accent));
+    background-image: linear-gradient(45deg, var(--primary), var(--accent));
 }
+
 .form-control {
 
     color: var(--textColor);
@@ -608,16 +623,17 @@ button {
 }
 
 
-.card{
+.card {
     border-radius: 0;
 }
+
 .theme-card2 {
     border-radius: 0px;
     border: 0px;
     background-repeat: no-repeat;
     background-color: none;
     padding: 1rem;
-    
+
     transition: all .3s ease;
 
     &:hover {
@@ -673,10 +689,11 @@ button {
     border-radius: 0;
 }
 
-.nav-item{
+.nav-item {
     padding: 0 10px;
 }
-.nav-link{
+
+.nav-link {
     font-weight: bold;
 
 }
@@ -690,7 +707,7 @@ button {
 .nav-link:hover,
 .nav-link.active {
 
-    border-bottom: 1px solid var(--primaryColor);   
+    border-bottom: 1px solid var(--primaryColor);
 }
 
 .nav-item.dropdown:hover,
@@ -724,13 +741,14 @@ button {
     gap: var(--gap);
     min-width: 100%;
     animation: scroll var(--duration) linear infinite;
-    
+
 }
-.marquee__group .slide{
-    width:300px;
-    height:calc(300px * (9/16));
-    display:grid;
-    place-items:center;
+
+.marquee__group .slide {
+    width: 300px;
+    height: calc(300px * (9/16));
+    display: grid;
+    place-items: center;
 }
 
 .marquee__group .slide img {
@@ -755,13 +773,15 @@ button {
 .swiper-button-next,
 .swiper-button-prev {
     background-color: var(--backgroundColor);
-    
+
     --swiper-navigation-size: 20px;
     color: var(--primaryColor);
     border-radius: 50%;
+
     @media (width < 992px) {
         padding: 1rem;
     }
+
     padding: 2rem;
 }
 
